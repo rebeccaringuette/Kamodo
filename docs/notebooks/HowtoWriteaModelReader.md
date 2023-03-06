@@ -678,3 +678,4 @@ pycodestyle dtm_4D.py
 The reported errors should be resolved until no errors are given when the second command is executed. For more information on PEP8 standards, see https://peps.python.org/pep-0008/.
 
 Note that the notebooks ending with the string 'timing' were used to produce the timing data used in the Kamodo model reader paper (Figure 10).
+.
